@@ -18,3 +18,10 @@ portal/tmp
 .vagrant
 
 webapp/logs
+logs/dump
+logs/slow-query-backup
+
+webapp/public/image/
+
+
+**/.DS_Store
